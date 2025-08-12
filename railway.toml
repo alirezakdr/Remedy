@@ -1,0 +1,9 @@
+# Railway config (optional). Nixpacks will detect Python automatically.
+[build]
+builder = "NIXPACKS"
+
+[variables]
+# Set BOT_TOKEN in the Railway Dashboard (Project → Variables). This section is just documentation.
+
+[deploy]
+# By default, Railway runs the Procfile. Ensure the service is marked as 'Background Worker'.
