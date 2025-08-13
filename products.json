@@ -11,7 +11,7 @@
         "instruction": "قبل از سشوار یا اتو، روی موی نیمه‌خشک اسپری کنید. نیاز به آبکشی ندارد."
       }
     },
-    "Brand X": {
+    "Karseell": {
       "Shampoo Daily Clean": {
         "instruction": "Apply to wet hair, massage 60–90s, rinse thoroughly. Suitable for daily use."
       },
@@ -19,5 +19,19 @@
         "instruction": "Work a small amount through damp hair, do not rinse. Style as desired."
       }
     }
+     "STQ": {
+      "Shampoo Daily Clean": {
+        "instruction": "Apply to wet hair, massage 60–90s, rinse thoroughly. Suitable for daily use."
+      },
+      "Leave-in Conditioner": {
+        "instruction": "Work a small amount through damp hair, do not rinse. Style as desired."
+  }
+}
+ "MBQ": {
+      "Shampoo Daily Clean": {
+        "instruction": "Apply to wet hair, massage 60–90s, rinse thoroughly. Suitable for daily use."
+      },
+      "Leave-in Conditioner": {
+        "instruction": "Work a small amount through damp hair, do not rinse. Style as desired."
   }
 }
