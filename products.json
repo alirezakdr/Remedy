@@ -1,37 +1,48 @@
 {
   "brands": {
-    " Secrets": {
-      "کراتین قهوه ای": {
-        "instruction": "۱) موها را با شامپوی قبلِ کراتین دوبار بشویید و خشک کنید.\n۲) مواد را یکنواخت از ۱ سانتی‌متر مانده به ریشه تا ساقه پخش کنید.\n۳) ۳۰–۴۰ دقیقه مکث؛ سپس براشینگ ملایم.\n۴) اتوکشی: هر دسته‌ی نازک، ۸–۱۲ بار در ۲۰۰–۲۳۰°C (بسته به جنس مو).\n۵) تا ۴۸ ساعت از شست‌وشو خودداری کنید؛ بعد ماسک آبرسان."
+    "Secrets": {
+      "Hydra Shampoo (Sulfate-Free)": {
+        "instruction": "مو را کاملاً خیس کنید → مقدار مناسبی شامپو را کف دست پخش کنید → ۶۰–۹۰ ثانیه ماساژ ملایم پوست‌سر → آبکشی کامل.\nنکته: مناسب مصرف روزانه و موهای کراتین/رنگ شده."
       },
-      "ماسک آبرسان عمیق": {
-        "instruction": "پس از شست‌وشو، روی ساقه و انتهای مو بزنید؛ ۵–۷ دقیقه مکث؛ آبکشی.\nنکته: برای موهای خیلی خشک، هفته‌ای ۲ بار."
+      "Deep Repair Mask": {
+        "instruction": "پس از شامپو، روی ساقه و انتهای مو بزنید (۲–۳ سانت از ریشه فاصله) → ۵–۷ دقیقه مکث → آبکشی.\nTip: برای موهای خیلی خشک، هفته‌ای ۲ بار."
       },
-      "سرم دوفاز محافظ حرارت": {
-        "instruction": "قبل از سشوار یا اتو، روی موی نیمه‌خشک اسپری کنید. نیاز به آبکشی ندارد."
+      "Thermo Shield Serum": {
+        "instruction": "پیش از سشوار/اتو، روی موی نیمه‌خشک ۲–۴ پاف اعمال کنید و یکنواخت شانه بزنید. نیاز به آبکشی ندارد."
       }
     },
     "Karseell": {
-      "Shampoo Daily Clean": {
-        "instruction": "Apply to wet hair, massage 60–90s, rinse thoroughly. Suitable for daily use."
+      "Keratin Pro Glass": {
+        "instruction": "۱) دوبار شست‌وشو با شامپوی قبلِ کراتین؛ خشک تا ۸۰٪.\n۲) مواد را از ۱ سانتی‌متری ریشه تا ساقه یکنواخت پخش کنید.\n۳) مکث ۳۰–۴۰ دقیقه؛ سپس براشینگ ملایم.\n۴) اتوکشی: هر دسته نازک ۸–۱۲ بار در ۲۰۰–۲۳۰°C (بسته به جنس مو).\n۵) تا ۴۸ ساعت شست‌وشو نکنید؛ سپس ماسک آبرسان."
+      },
+      "Moisture Lock Mask": {
+        "instruction": "پس از شست‌وشو، مقدار کافی روی ساقه بزنید؛ ۵–۱۰ دقیقه مکث؛ آبکشی. مناسب بعد از کراتین."
       },
       "Leave-in Conditioner": {
-        "instruction": "Work a small amount through damp hair, do not rinse. Style as desired."
+        "instruction": "روی موی نم‌دار مقدار کمی بزنید و بدون آبکشی حالت دهید. مناسب گره‌گشایی و کاهش پف."
+      }
+    },
+    "MBQ": {
+      "Scalp Detox Shampoo": {
+        "instruction": "روی مو و پوست‌سر خیس اعمال کنید → ۹۰ ثانیه ماساژ با نوک انگشتان (بدون ناخن) → آبکشی کامل.\nهفته‌ای ۲–۳ مرتبه."
+      },
+      "Fiber Repair Mask": {
+        "instruction": "پس از شامپو، به طول مو بزنید؛ ۷ دقیقه مکث؛ آبکشی. برای آسیب شدید، ۱۰ دقیقه."
+      },
+      "Silk Finish Serum": {
+        "instruction": "روی موی خشک یا نیمه‌خشک ۱–۲ پاف به انتهاها بزنید. جلوگیری از وز و موخوره؛ بدون آبکشی."
+      }
+    },
+    "STQ": {
+      "Color Safe Shampoo": {
+        "instruction": "مو را خیس کنید → یک کف دست شامپو → ۶۰ ثانیه ماساژ ملایم → آبکشی. رنگ را کمرنگ نمی‌کند."
+      },
+      "Intense Hydration Mask": {
+        "instruction": "روی ساقه بزنید؛ ۵–۸ دقیقه مکث؛ آبکشی. برای رطوبت‌رسانی عمیق و نرمی فوری."
+      },
+      "Heat Protect Spray": {
+        "instruction": "قبل از حرارت (سشوار/اتو) از فاصله ۱۵–۲۰ سانت ۳–۵ پاف اسپری کنید. نیاز به آبکشی ندارد."
       }
     }
-     "STQ": {
-      "Shampoo Daily Clean": {
-        "instruction": "Apply to wet hair, massage 60–90s, rinse thoroughly. Suitable for daily use."
-      },
-      "Leave-in Conditioner": {
-        "instruction": "Work a small amount through damp hair, do not rinse. Style as desired."
-  }
-}
- "MBQ": {
-      "Shampoo Daily Clean": {
-        "instruction": "Apply to wet hair, massage 60–90s, rinse thoroughly. Suitable for daily use."
-      },
-      "Leave-in Conditioner": {
-        "instruction": "Work a small amount through damp hair, do not rinse. Style as desired."
   }
 }
